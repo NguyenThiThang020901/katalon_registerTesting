@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Register by facebook account_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48e9b826-b48f-4585-86fa-7bcc3ee51f04</testCaseGuid>
+   <variable>
+      <defaultValue>'0915810375\r\n'</defaultValue>
+      <description></description>
+      <id>d5abaae7-e0e0-4529-9583-94a8c13a555a</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Register with all valid fields_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3411c0bb-7e77-4055-89c1-892450d13e11</testCaseGuid>
+   <variable>
+      <defaultValue>'0915810375'</defaultValue>
+      <description></description>
+      <id>520a13ac-dace-4a3a-94d7-e0af734eac95</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

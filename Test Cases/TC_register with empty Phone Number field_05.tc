@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_register with empty Phone Number field_05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae8375f9-03bc-4430-80b1-2bfa4866da5b</testCaseGuid>
+</TestCaseEntity>
