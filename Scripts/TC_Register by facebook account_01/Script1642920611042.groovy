@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://hocmai.vn/loginv2/signup.php')
 
-WebUI.click(findTestObject('register_account_page/button_register_byFB'))
+WebUI.click(findTestObject('Page_Facebook/button_register_byFB'))
 
 WebUI.switchToWindowTitle('Facebook')
 

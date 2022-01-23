@@ -18,9 +18,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.w
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('C:\\Users\\THANGN~1\\AppData\\Local\\Temp\\Katalon\\Test Cases\\TC_register with all empty fields\\20220123_150925\\execution.properties')
+RunConfiguration.setExecutionSettingFile('C:\\Users\\THANGN~1\\AppData\\Local\\Temp\\Katalon\\Test Cases\\TC_Register by facebook account_01\\20220123_163414\\execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/TC_register with all empty fields', new TestCaseBinding('Test Cases/TC_register with all empty fields',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('Test Cases/TC_Register by facebook account_01', new TestCaseBinding('Test Cases/TC_Register by facebook account_01',[:]), FailureHandling.STOP_ON_FAILURE , false)
     
